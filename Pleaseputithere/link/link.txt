@@ -12,3 +12,18 @@ https://qiita.com/nyango/items/a7643b3a60a2facf3250
 
 #aliasについて
 https://eng-entrance.com/linux-command-alias
+
+#git pushがrejectされたときの対応方法
+https://hacknote.jp/archives/15275/
+
+#ジョブについて
+https://eng-entrance.com/linux-job
+
+#diffについて
+https://eng-entrance.com/linux-command-diff
+
+#wcについて
+https://www.atmarkit.co.jp/ait/articles/1611/07/news026.html
+
+#uniqについて
+https://www.atmarkit.co.jp/ait/articles/1611/14/news021.html
