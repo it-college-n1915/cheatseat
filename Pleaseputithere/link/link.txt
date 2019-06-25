@@ -1,0 +1,14 @@
+#linkコマンドについて
+https://eng-entrance.com/linux-permission-link
+
+#grepでコメント行および空白行を削除
+https://qiita.com/notakaos/items/91d807f3151694e6c7a8
+
+#trコマンドについて
+https://monaski.hatenablog.com/entry/2015/02/09/231810
+
+#あと何日でXXX
+https://qiita.com/nyango/items/a7643b3a60a2facf3250
+
+#aliasについて
+https://eng-entrance.com/linux-command-alias
